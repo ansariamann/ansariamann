@@ -1,43 +1,45 @@
-## Hi there 👋
+<a href="https://github.com/ansariamann">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansariamann/ansariamann/main/dark_mode.svg">
+    <img alt="Aman Ansari's GitHub Profile" src="https://raw.githubusercontent.com/ansariamann/ansariamann/main/light_mode.svg">
+  </picture>
+</a>
 
-<!--
-**ansariamann/ansariamann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aman Ansari
+**ansariamann**
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/github/followers/ansariamann?label=Follow&style=social)](https://github.com/ansariamann)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-yourusername@GitHub 
+---
+
+```text
+   █████╗ ███╗   ███╗ █████╗ ███╗   ██╗     █████╗ ███╗   ██╗███████╗ █████╗ ██████╗ ██╗
+  ██╔══██╗████╗ ████║██╔══██╗████╗  ██║    ██╔══██╗████╗  ██║██╔════╝██╔══██╗██╔══██╗██║
+  ███████║██╔████╔██║███████║██╔██╗ ██║    ███████║██╔██╗ ██║███████╗███████║██████╔╝██║
+  ██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║    ██╔══██║██║╚██╗██║╚════██║██╔══██║██╔══██╗██║
+  ██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║    ██║  ██║██║ ╚████║███████║██║  ██║██████╔╝██║
+  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝
+ansariamann@GitHub 
 ────────────────────
-OS:           Linux | macOS | Windows
-Uptime:       XX years
-Host:         Your Company / Freelance
-Kernel:       Your Main Role (e.g. Full Stack Developer)
-IDE:          VS Code | IntelliJ | Neovim
+OS:           Linux | Windows | macOS
+Uptime:       Professional Software Engineer
+Host:         Building Intelligent Systems
+Kernel:       Software Engineer
+IDE:          IntelliJ IDEA | VS Code | PyCharm
 
-Languages.Programming:   Python, JavaScript, TypeScript, Go
-Languages.Computer:      HTML, CSS, SQL, Bash
-Languages.Real:          English, Spanish
+Languages.Programming:   Java, Python, JavaScript
+Languages.Computer:      SQL, HTML, CSS, Bash
+Languages.ML:            TensorFlow, PyTorch, Scikit-learn
 
-Hobbies.Software:     Open Source, AI, Gaming
-Hobbies.Hardware:     Mechanical Keyboards, Homelab
+Hobbies.Software:     Machine Learning, Open Source, System Design
+Hobbies.Hardware:     Building side projects
 
 Contact:
-  Email:      you@email.com
-  LinkedIn:   linkedin.com/in/yourprofile
-  Discord:    yourdiscord
+  Email:      iamamanansari786a@gmail.com
+  LinkedIn:   linkedin.com/in/-aman-ansari
+  GitHub:     github.com/ansariamann
 
 GitHub Stats ─────────────
-  Repos:          45     Stars:       234
-  Commits:       1,234   Followers:    89
-  Lines of Code: 156k+
-
-  <image-card alt="Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" ></image-card>
-<image-card alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" ></image-card>
+  Repos:          XX     Stars:       XXX
+  Commits:       XXXX    Followers:   XX
+<image-card alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ansariamann&show_icons=true&theme=tokyonight&hide_border=true" ></image-card>
